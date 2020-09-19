@@ -7,7 +7,7 @@
 ### Future CS Engineer👩🏻‍💻👩🏻‍🔧
 
 ## 🌱I’m currently learning Python
-### I love reading📖📚 and Photography📷📱 & food!!!! 🍔🍰
+### I love reading📖📚 Photography📷📱 & food!!!! 🍔🍰
 
 # 📫 How to reach me:
 <a href="https://www.linkedin.com/in/afsanareevu"><img src="https://raw.githubusercontent.com/afsanarv/afsanarv/master/images/Linkedin-Logo-2.png" width="100"  target="_blank"/></a> &nbsp; &nbsp; &nbsp;
