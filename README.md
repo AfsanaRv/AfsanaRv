@@ -6,7 +6,7 @@
 ### Currently studying at North South University 👩🏻‍🎓
 ### Future CS Engineer👩🏻‍💻👩🏻‍🔧
 
-## 🌱I’m currently learning Python
+## 🌱I’m currently studying about Neural Networks
 ### I love reading📖📚 Photography📷📱 & food!!!! 🍔🍰
 
 # 📫 How to reach me:
